@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AlamofireRSSParser (2.3.0):
+    - Alamofire (~> 5.0)
+  - DZNEmptyDataSet (1.8.1)
+  - JGProgressHUD (2.1)
+  - MBProgressHUD (1.2.0)
+  - SCLAlertView (0.8)
+
+DEPENDENCIES:
+  - AlamofireRSSParser
+  - DZNEmptyDataSet
+  - JGProgressHUD
+  - MBProgressHUD
+  - SCLAlertView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireRSSParser
+    - DZNEmptyDataSet
+    - JGProgressHUD
+    - MBProgressHUD
+    - SCLAlertView
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AlamofireRSSParser: ced366c481685cb6ed24e6d50b7b7a5a47c2da6d
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+
+PODFILE CHECKSUM: 55a960bae6b6e25d52d069b6e851ac52895d0a55
+
+COCOAPODS: 1.9.1
